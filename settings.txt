@@ -1,0 +1,4 @@
+root: "C:\Users\Einna\BYUIdesktop\ITM327_datawarehouse\Apache_Airflow-main" 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
